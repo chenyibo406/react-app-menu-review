@@ -57,7 +57,6 @@ button:focus-visible {
 .card-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  padding: 40px;
 }
 
 /* Card component */
@@ -76,6 +75,7 @@ button:focus-visible {
   flex-direction: column;
   justify-content: space-evenly;
   gap: 40px;
+  border: 2px solid red;
 }
 
 .menu-card img {
