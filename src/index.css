@@ -26,7 +26,7 @@ a:hover {
   margin: 120px 40px;
   flex-direction: column;
   align-items: center;
-  width: 100vw;
+  width: 80vw;
 }
 
 .main-container h1 {
@@ -59,7 +59,7 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding: 40px;
-  border: 5px dotted rgb(114, 163, 255);
+  border: 5px dotted rgb(46, 64, 96);
 }
 
 /* Card component */
