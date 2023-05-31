@@ -58,6 +58,7 @@ button:focus-visible {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding: 40px;
+  border: 5px dotted crimson;
 }
 
 /* Card component */
